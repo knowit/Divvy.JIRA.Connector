@@ -1,4 +1,4 @@
-package com.divvy.jira.api;
+package com.divvy.jira-connector.api;
 
 public interface MyPluginComponent
 {

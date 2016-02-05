@@ -6,16 +6,16 @@
 
     <modelVersion>4.0.0</modelVersion>
     <groupId>com.divvy</groupId>
-    <artifactId>jira</artifactId>
+    <artifactId>jira-connector</artifactId>
     <version>1.0.0</version>
 
     <organization>
-        <name>Example Company</name>
-        <url>http://www.example.com/</url>
+        <name>Knowit</name>
+        <url>http://www.knowit.no/</url>
     </organization>
 
-    <name>jira</name>
-    <description>This is the com.divvy:jira plugin for Atlassian JIRA.</description>
+    <name>Divvy connector for JIRA</name>
+    <description>A connector between the Divvy service and JIRA.</description>
     <packaging>atlassian-plugin</packaging>
 
     <dependencies>
@@ -121,7 +121,7 @@
 
                         <!-- Add package to export here -->
                         <Export-Package>
-                            com.divvy.jira.api,
+                            com.divvy.jira-connector.api,
                         </Export-Package>
 
                         <!-- Add package import here -->
