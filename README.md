@@ -8,3 +8,5 @@ A plugin for JIRA 7.x that allows for integrataion with Divvy
 
 ### Testing
 Run `atlas-run` in a command prompt to start a development JIRA instance on [http://localhost:2990](http://localhost:2990) with the plugin installed.
+
+The username and password is `admin`.
