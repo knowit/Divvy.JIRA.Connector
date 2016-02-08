@@ -13,4 +13,4 @@ The username and password is `admin`.
 
 ##### Reloading the plugin without restarting JIRA
 Ensure your `pom.xml` file complies with the instructions at [https://developer.atlassian.com/docs/developer-tools/automatic-plugin-reinstallation-with-quickreload](https://developer.atlassian.com/docs/developer-tools/automatic-plugin-reinstallation-with-quickreload#AutomaticPluginReinstallationwithQuickReload-EnablingQuickReload) and run `atlas-run`.  
-Any changes made to your files will reload the plugin.
+Any changes made to your files will now reload the plugin.
