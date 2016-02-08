@@ -1,8 +1,8 @@
-package ut.com.divvy.atlassian.jira-connector;
+package ut.com.divvy.atlassian.jiraconnector;
 
 import org.junit.Test;
-import com.divvy.atlassian.jira-connector.api.MyPluginComponent;
-import com.divvy.atlassian.jira-connector.impl.MyPluginComponentImpl;
+import com.divvy.atlassian.jiraconnector.api.MyPluginComponent;
+import com.divvy.atlassian.jiraconnector.impl.MyPluginComponentImpl;
 
 import static org.junit.Assert.assertEquals;
 

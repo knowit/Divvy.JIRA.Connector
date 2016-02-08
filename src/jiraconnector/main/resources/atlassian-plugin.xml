@@ -11,14 +11,14 @@
     <resource type="i18n" name="i18n" location="jira-connector"/>
     
     <!-- add our web resources -->
-    <web-resource key="jira-connector-resources" name="jira-connector Web Resources">
+    <web-resource key="jiraconnector-resources" name="jiraconnector Web Resources">
         <dependency>com.atlassian.auiplugin:ajs</dependency>
         
-        <resource type="download" name="jira-connector.css" location="/css/jira-connector.css"/>
-        <resource type="download" name="jira-connector.js" location="/js/jira-connector.js"/>
+        <resource type="download" name="jiraconnector.css" location="/css/jiraconnector.css"/>
+        <resource type="download" name="jiraconnector.js" location="/js/jiraconnector.js"/>
         <resource type="download" name="images/" location="/images"/>
 
-        <context>jira-connector</context>
+        <context>jiraconnector</context>
     </web-resource>
     
 </atlassian-plugin>

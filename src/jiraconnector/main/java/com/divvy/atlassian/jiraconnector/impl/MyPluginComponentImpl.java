@@ -1,9 +1,9 @@
-package com.divvy.atlassian.jira-connector.impl;
+package com.divvy.atlassian.jiraconnector.impl;
 
 import com.atlassian.plugin.spring.scanner.annotation.export.ExportAsService;
 import com.atlassian.plugin.spring.scanner.annotation.imports.ComponentImport;
 import com.atlassian.sal.api.ApplicationProperties;
-import com.divvy.atlassian.jira-connector.api.MyPluginComponent;
+import com.divvy.atlassian.jiraconnector.api.MyPluginComponent;
 
 import javax.inject.Inject;
 import javax.inject.Named;
