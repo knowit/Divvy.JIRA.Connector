@@ -6,7 +6,7 @@
 
     <modelVersion>4.0.0</modelVersion>
     <groupId>com.divvy.atlassian</groupId>
-    <artifactId>jira-connector</artifactId>
+    <artifactId>jiraconnector</artifactId>
     <version>1.0.0-SNAPSHOT</version>
 
     <organization>
@@ -121,7 +121,7 @@
 
                         <!-- Add package to export here -->
                         <Export-Package>
-                            com.divvy.atlassian.jira-connector.api,
+                            com.divvy.atlassian.jiraconnector.api,
                         </Export-Package>
 
                         <!-- Add package import here -->

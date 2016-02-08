@@ -23,10 +23,12 @@
         <outputRelativeToContentRoot value="true" />
         <processorPath useClasspath="true" />
         <module name="jira-connector" />
+        <module name="jiraconnector" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="jira-connector" target="1.5" />
+      <module name="jiraconnector" target="1.5" />
     </bytecodeTargetLevel>
   </component>
 </project>
